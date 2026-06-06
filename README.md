@@ -1,9 +1,7 @@
 # StudySync
 
 Your all-in-one academic planner — deadlines, timetables, grades, notes, goals, and attendance tracking.
-https://studymanager-21a9.onrender.com/
-
-## What's New
+https://studymanager-21a9.onrender.com
 
 ### Auth System
 - **Password hashing** — passwords stored as hashed values, not plaintext
