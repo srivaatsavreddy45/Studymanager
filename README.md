@@ -1,10 +1,11 @@
 # StudySync
 
-Your all-in-one academic planner — deadlines, timetables, grades, notes, goals, and now **attendance tracking**.
+Your all-in-one academic planner — deadlines, timetables, grades, notes, goals, and attendance tracking.
+https://studymanager-21a9.onrender.com/
 
 ## What's New
 
-### 🔐 Improved Auth System
+### Auth System
 - **Password hashing** — passwords stored as hashed values, not plaintext
 - **Show/hide password** toggle on all password fields
 - **Password strength indicator** on registration
@@ -12,7 +13,7 @@ Your all-in-one academic planner — deadlines, timetables, grades, notes, goals
 - **Forgot password** flow with token-based reset (simulated — in production, wire this to an email service)
 - Input validation and clear error messages
 
-### ✅ Attendance Tracking (new page)
+###  Attendance Tracking (new page)
 - Mark attendance per subject as **Present**, **Absent**, or **Late**
 - One record per subject per day — re-marking updates the existing entry
 - **Date range filtering**: This Week, This Month, Last Month, Last 3 Months, All Time, Custom range
